@@ -2,7 +2,7 @@
 //  UserData.swift
 //  PetPals
 //
-//  Created by Stef Yaegel on 2/29/24.
+//  Created by Gargi Yadav on 2/29/24.
 //
 
 import SwiftUI

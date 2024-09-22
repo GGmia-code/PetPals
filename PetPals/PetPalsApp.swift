@@ -2,7 +2,7 @@
 //  PetPalsApp.swift
 //  PetPals
 //
-//  Created by Stef Yaegel on 2/8/24.
+//  Created by Gargi Yadav on 2/8/24.
 //
 
 import SwiftUI

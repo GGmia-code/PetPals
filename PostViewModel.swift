@@ -2,7 +2,7 @@
 //  PostViewModel.swift
 //  PetPals
 //
-//  Created by Stef Yaegel on 2/12/24.
+//  Created by Gargi Yadav on 2/12/24.
 //
 
 import Foundation
